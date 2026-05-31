@@ -40,6 +40,8 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 
 <br>
 
+<br>
+
 ## 📊 Meu GitHub
 
 <div align="center">
@@ -59,14 +61,6 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 <img src="https://img.shields.io/badge/Estudando-HTML%20%7C%20Python%20%7C%20Lua-2f81f7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-8957e5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Evoluindo%20na%20Programação-238636?style=for-the-badge" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Obrigado por visitar meu perfil! 🚀
 
 </div>
 
