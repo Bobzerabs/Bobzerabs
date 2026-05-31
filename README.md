@@ -32,7 +32,7 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,python,lua,vscode,github" />
+<img src="https://skillicons.dev/icons?i=html,python,lua,vscode,github" alt="Tecnologias" />
 
 </div>
 
@@ -46,25 +46,6 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
   height="170"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bobzerabs&theme=tokyonight"
   alt="Status do GitHub"
-/>
-
-<img 
-  height="170"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bobzerabs&theme=tokyonight"
-  alt="Linguagens mais usadas"
-/>
-
-</div>
-
-<br>
-
-## 🔥 Sequência de atividade
-
-<div align="center">
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Bobzerabs&theme=tokyonight&hide_border=true"
-  alt="Sequência de atividade"
 />
 
 </div>
