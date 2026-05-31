@@ -1,7 +1,7 @@
 <img 
   align="right" 
   width="160" 
-  src="./assets/personagem.png" 
+  src="https://robohash.org/bobzerabs.png?set=set4" 
   alt="Personagem"
 />
 
@@ -16,23 +16,19 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Bobzerabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
 
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobzerabs&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobzerabs&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bobzerabs&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ## 🚀 Tecnologias que estou estudando atualmente
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,python,lua" alt="HTML, Python e Lua" />
+
+<img src="https://skillicons.dev/icons?i=html,python,lua" alt="HTML, Python e Lua" />
+
 </div>
 
 <div align="center">
