@@ -42,19 +42,30 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bobzerabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img 
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bobzerabs&theme=tokyonight"
+  alt="Status do GitHub"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobzerabs&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bobzerabs&theme=tokyonight"
+  alt="Linguagens mais usadas"
+/>
 
 </div>
 
 <br>
 
-## 🔥 Atividade
+## 🔥 Sequência de atividade
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobzerabs&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Bobzerabs&theme=tokyonight&hide_border=true"
+  alt="Sequência de atividade"
+/>
 
 </div>
 
