@@ -1,11 +1,24 @@
-<img 
-  align="right" 
-  width="160" 
-  src="https://robohash.org/bobzerabs.png?set=set4" 
-  alt="Personagem"
-/>
+<div align="center">
+
+<img width="170" src="https://robohash.org/bobzerabs.png?set=set4" alt="Personagem Bob" />
 
 # Oiii! Eu sou o Bob 👋
+
+### Estudante de tecnologia | HTML • Python • Lua
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Estudando%20Tecnologia-2f81f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-8957e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Objetivo-Evoluir%20na%20Programação-238636?style=for-the-badge" />
+
+</div>
+
+<br>
+
+## 👨‍💻 Sobre mim
 
 Sou estudante de tecnologia e apaixonado por desenvolvimento, sistemas e interfaces modernas.
 
@@ -13,23 +26,39 @@ Atualmente estou estudando **HTML**, **Python** e **Lua**, buscando evoluir cada
 
 Também gosto de criar projetos personalizados, aprender novas tecnologias e desenvolver soluções criativas.
 
-## 📊 Estatísticas do GitHub
+<br>
+
+## 🚀 Tecnologias que estou estudando
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobzerabs&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bobzerabs&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,python,lua,vscode,github" />
 
 </div>
 
-## 🚀 Tecnologias que estou estudando atualmente
+<br>
+
+## 📊 Status do GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,python,lua" alt="HTML, Python e Lua" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bobzerabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobzerabs&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+<br>
+
+## 🔥 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobzerabs&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
 
 <div align="center">
 
