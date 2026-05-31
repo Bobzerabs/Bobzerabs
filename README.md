@@ -1,7 +1,7 @@
 <img 
   align="right" 
-  width="180" 
-  src="URL_DO_SEU_PERSONAGEM_AQUI" 
+  width="160" 
+  src="./assets/personagem.png" 
   alt="Personagem"
 />
 
@@ -9,30 +9,30 @@
 
 Sou estudante de tecnologia e apaixonado por desenvolvimento, sistemas e interfaces modernas.
 
-Atualmente estou estudando **HTML**, **Python** e **Lua**, buscando evoluir cada vez mais na área de programação e desenvolvimento de sistemas.
+Atualmente estou estudando **HTML**, **Python** e **Lua**, buscando evoluir cada vez mais na área de programação e no desenvolvimento de sistemas.
 
 Também gosto de criar projetos personalizados, aprender novas tecnologias e desenvolver soluções criativas.
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=davindias09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Bobzerabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Estatísticas do GitHub"
   />
 
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davindias09&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobzerabs&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais usadas"
   />
 </div>
 
-## 🚀 Tecnologias que estudo atualmente
+## 🚀 Tecnologias que estou estudando atualmente
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,python,lua" />
-
+  <img src="https://skillicons.dev/icons?i=html,python,lua" alt="HTML, Python e Lua" />
 </div>
 
 <div align="center">
