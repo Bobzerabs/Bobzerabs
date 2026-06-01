@@ -4,7 +4,7 @@
 
 # Oiii! Eu sou o Bob 👋
 
-### Estudante de tecnologia | HTML • Python • Lua
+### Estudante de tecnologia | HTML • CSS • Python • Lua
 
 </div>
 
@@ -22,7 +22,7 @@
 
 Sou estudante de tecnologia e apaixonado por desenvolvimento, sistemas e interfaces modernas.
 
-Atualmente estou estudando **HTML**, **Python** e **Lua**, buscando evoluir cada vez mais na área de programação e no desenvolvimento de sistemas.
+Atualmente estou estudando **HTML**, **CSS**, **Python** e **Lua**, buscando evoluir cada vez mais na área de programação e no desenvolvimento de sistemas.
 
 Também gosto de criar projetos personalizados, aprender novas tecnologias e desenvolver soluções criativas.
 
@@ -32,13 +32,9 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,python,lua,vscode,github" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,python,lua,vscode,github" alt="Tecnologias" />
 
 </div>
-
-<br>
-
-<br>
 
 <br>
 
@@ -54,6 +50,17 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Estudando-HTML%20%7C%20CSS%20%7C%20Python%20%7C%20Lua-2f81f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-8957e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Evoluindo%20na%20Programação-238636?style=for-the-badge" />
+
+</div>
+
+<br>
 
 <div align="center">
 
