@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="170" src="https://robohash.org/bobzerabs.png?set=set4" alt="Personagem Bob" />
-
 # Oiii! Eu sou o Bob 👋
 
 ### Estudante de tecnologia | HTML • CSS • Python • Lua
