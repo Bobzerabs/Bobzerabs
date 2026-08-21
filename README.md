@@ -1,67 +1,61 @@
-<div align="center">
+# 👋 Olá, eu sou Bob
 
-# Oiii! Eu sou o Bob 👋
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Technology+Enthusiast;Software+%26+Hardware;Systems+%26+Innovation&center=true">
 
-### Estudante de tecnologia | HTML • CSS • Python • Lua
 
-</div>
+## Sobre mim
 
-<div align="center">
+Sou entusiasta de tecnologia, sempre buscando aprender, criar e aprimorar soluções envolvendo software e hardware.
 
-<img src="https://img.shields.io/badge/Status-Estudando%20Tecnologia-2f81f7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-8957e5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Objetivo-Evoluir%20na%20Programação-238636?style=for-the-badge" />
+Tenho interesse em:
 
-</div>
+- Desenvolvimento de sistemas
+- Hardware e montagem de computadores
+- Manutenção e otimização de equipamentos
+- Desenvolvimento web
+- Linguagens de programação
+- Arquitetura de aplicações
+- Segurança e desempenho
 
-<br>
+Busco evoluir constantemente através de estudos e projetos práticos, explorando diferentes áreas da tecnologia.
 
-## 👨‍💻 Sobre mim
 
-Sou estudante de tecnologia e apaixonado por desenvolvimento, sistemas e interfaces modernas.
+## 🛠️ Tecnologias e ferramentas
 
-Atualmente estou estudando **HTML**, **CSS**, **Python** e **Lua**, buscando evoluir cada vez mais na área de programação e no desenvolvimento de sistemas.
+### Programação
+- Lua
+- JavaScript
+- HTML
+- CSS
 
-Também gosto de criar projetos personalizados, aprender novas tecnologias e desenvolver soluções criativas.
+### Banco de dados
+- SQLite
+- MySQL
 
-<br>
+### Hardware
+- Montagem e configuração de computadores
+- Diagnóstico de problemas
+- Otimização de desempenho
+- Componentes e periféricos
 
-## 🚀 Tecnologias que estou estudando
+### Áreas de interesse
+- Sistemas multiplayer
+- Aplicações web
+- Automação
+- Segurança de software
+- Infraestrutura e hardware
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,lua,vscode,github" alt="Tecnologias" />
+## 📚 Atualmente estudando
 
-</div>
+- Boas práticas de programação
+- Desenvolvimento de sistemas
+- Arquitetura de aplicações
+- Otimização de desempenho
+- Tecnologias de hardware
 
-<br>
 
-## 📊 Meu GitHub
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobzerabs&show_icons=true&theme=tokyonight)
 
-<img 
-  width="100%" 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bobzerabs&theme=github_dark" 
-  alt="Resumo do GitHub do Bob"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Estudando-HTML%20%7C%20CSS%20%7C%20Python%20%7C%20Lua-2f81f7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-8957e5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Evoluindo%20na%20Programação-238636?style=for-the-badge" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Obrigado por visitar meu perfil! 🚀
-
-</div>
