@@ -49,7 +49,7 @@ Gosto de aprender, criar projetos e explorar novas tecnologias, sempre buscando 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bobzerabs&theme=transparent&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bobzerabs&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
