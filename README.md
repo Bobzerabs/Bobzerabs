@@ -45,11 +45,15 @@ Gosto de aprender, criar projetos e explorar novas tecnologias, sempre buscando 
 - 🌎 Novas tecnologias
 
 
-## 📊 GitHub Activity
+## 📊 Meu GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bobzerabs&theme=tokyo-night&hide_border=true&area=true"/>
+<img 
+  width="100%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bobzerabs&theme=github_dark" 
+  alt="Resumo do GitHub do Bob"
+/>
 
 </div>
 
