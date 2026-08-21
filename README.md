@@ -45,11 +45,11 @@ Gosto de aprender, criar projetos e explorar novas tecnologias, sempre buscando 
 - 🌎 Novas tecnologias
 
 
-## 📊 GitHub
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobzerabs&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bobzerabs&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
