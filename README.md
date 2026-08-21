@@ -45,11 +45,11 @@ Gosto de aprender, criar projetos e explorar novas tecnologias, sempre buscando 
 - 🌎 Novas tecnologias
 
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-Confira meus projetos e contribuições diretamente pelo meu perfil.
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bobzerabs-181717?style=for-the-badge&logo=github)](https://github.com/Bobzerabs)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Bobzerabs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
