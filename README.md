@@ -39,6 +39,8 @@ Também gosto de criar projetos personalizados, aprender novas tecnologias e des
 </div>
 
 
-## 🌎 Contato
+<div align="center">
 
-💻 GitHub: [@Bobzerabs](https://github.com/Bobzerabs)
+### Obrigado por visitar meu perfil! 🚀
+
+</div>
