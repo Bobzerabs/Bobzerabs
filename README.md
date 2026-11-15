@@ -10,7 +10,7 @@
 
 Sou estudante de tecnologia e apaixonado por desenvolvimento, sistemas e interfaces modernas.
 
-Atualmente estou estudando **HTML**, **CSS**, **Python** e **Lua**, buscando evoluir cada vez mais na área de programação e no desenvolvimento de sistemas.
+buscando evoluir cada vez mais na área de programação e no desenvolvimento de sistemas.
 
 Também gosto de criar projetos personalizados, aprender novas tecnologias e desenvolver soluções criativas.
 
